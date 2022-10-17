@@ -1,0 +1,33 @@
+@@ -0,0 +1,32 @@
+пакет javacore .урок 1;
+
+Открытый класс вызова   {
+    Требуется , чтобы строка  была закрытой;
+    Требуется  указать значение int  private;
+    Требуется  доступ к int  private;
+    Требуется  указать int  private;
+
+    Вызов  public(int  n1, int  n2, int  n3, int  n4) {
+        Требуемый параметр = n1;
+        Требуемый индекс = n2;
+        Требуется добавить = n3;
+        Требуемое значение = n4;
+    }
+
+    getRequiredStr int public() {
+        Требуется  возврат STR;
+    }
+
+    getRequiredDex int public() {
+        Требуется  возврат по умолчанию;
+    }
+
+    getRequiredVit int public() {
+        Требуется  возврат dv;
+    }
+
+    getRequiredInt int public() {
+        Требуется  возврат;
+    }
+
+}
